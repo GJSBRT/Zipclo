@@ -1,5 +1,5 @@
 {
-    "bot_token": "ODAxNDUzMjM0ODk5Mzg2NDY4.YAg5fQ.6aOq07E8aXkBPk5nF5xKOOETqFw",
-    "mongo_url": "mongodb://admin:Bkv9knxEuMIuhNyhkEB7@serv01.dutchis.net:20009/admin",
+    "bot_token": "botkey",
+    "mongo_url": "mongourl",
     "prefix": "!"
 }
