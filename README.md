@@ -1,5 +1,5 @@
 <p align="center">
-<img width="65%" src="https://cdn.discordapp.com/attachments/763476535717789697/803016027301478440/ZIPCLO_logo.png">
+<img width="35%" src="https://cdn.discordapp.com/attachments/763476535717789697/803016027301478440/ZIPCLO_logo.png">
 <br>
   
 # Zipclo
