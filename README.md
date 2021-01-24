@@ -7,7 +7,7 @@
 
 ## About
 
-A discord bot made for the Treehouse Server, it's main functionalities include:
+A discord bot made for multiple Discord servers, it's main functionalities include:
 ```
 * Ban
 * Kick
@@ -23,7 +23,7 @@ Do in order:
 
 `$ git clone https://github.com/GJSBRT/zipclo`
 
-`cd treehouse-bot`
+`cd Zipclo`
 
 `npm i`
 
