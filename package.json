@@ -1,0 +1,17 @@
+{
+  "name": "zipclo",
+  "version": "1.0.0",
+  "description": "zipclo",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.12",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GSBRT",
+  "license": "ISC"
+}
